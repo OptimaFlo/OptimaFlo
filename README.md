@@ -1,6 +1,19 @@
- # OptimaFlo                                                                                                                                                                                                                              
-  The AI data platform for growing companies. From raw data to dashboards in your cloud.                                                                                                       
-  - AI agents build pipelines from plain English 
-  - Built on Apache                           
-  - BYOC deployment (your cloud, your data)                       
-  - Plans from $2,500/mo  
+# OptimaFlo
+
+**The AI data team for growing companies.**
+
+OptimaFlo staffs the roles a data team needs, run by AI agents, on one platform that goes from raw data to dashboards in your cloud.
+
+🔗 **[optimaflo.io](https://www.optimaflo.io)**
+
+## What it does
+
+- AI agents build and run your pipelines from plain English
+- One stack instead of six: ingestion, warehouse, transforms, and BI in one place
+- Built on Apache Iceberg, open source under the hood
+- BYOC: deploys in your cloud, your data never leaves it
+
+## Links
+
+- Website: [optimaflo.io](https://www.optimaflo.io)
+- Docs: [docs.optimaflo.com](https://docs.optimaflo.com)
