@@ -16,4 +16,4 @@ OptimaFlo staffs the roles a data team needs, run by AI agents, on one platform 
 ## Links
 
 - Website: [optimaflo.io](https://www.optimaflo.io)
-- Docs: [docs.optimaflo.com](https://docs.optimaflo.com)
+- Docs: [optimaflo.io/docs](https://optimaflo.io/docs)
